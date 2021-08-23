@@ -34,7 +34,7 @@
     "prepack": "yarn clean && yarn lint && yarn test && yarn build"
   },
   "devDependencies": {
-    "@types/jest": "^26.0.14",
+    "@types/jest": "^27.0.1",
     "@types/nova-editor": "^1.0.0",
     "@types/nova-editor-node": "^4.1.2",
     "@typescript-eslint/eslint-plugin": "^4.3.0",
